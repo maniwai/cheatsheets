@@ -1,0 +1,9 @@
+.vscode/settings.json
+node_modules/
+package-lock.json
+yarn.lock
+
+dist/
+build/
+/zzz/
+coverage/

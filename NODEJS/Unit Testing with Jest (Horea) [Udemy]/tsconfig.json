@@ -1,0 +1,18 @@
+{
+    "include": ["src", "test", "xxx/sample-express.ts"],
+
+    "compilerOptions": {
+        "outDir": "dist",
+        "lib": ["es2023"],
+        "target": "es2022",
+        "module": "Node16", //optionnal
+        "esModuleInterop": true,
+        // "types": ["node"], //optionnal
+        "typeRoots": ["./node_modules/@types", "./src/types"],
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitAny": true
+    }
+}
