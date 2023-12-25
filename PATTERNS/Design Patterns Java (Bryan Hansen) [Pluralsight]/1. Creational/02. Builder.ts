@@ -46,3 +46,12 @@ export class UserBuilder {
         return this.email;
     }
 }
+
+// Client code
+const user: User = new UserBuilder()
+    .setUsername('john_doe')
+    .setEmail('john@example.com')
+    .build(); // return   a User object
+
+console.log(`Username: ${user.getUsername()}`);
+console.log(`Email: ${user.getEmail()}`);

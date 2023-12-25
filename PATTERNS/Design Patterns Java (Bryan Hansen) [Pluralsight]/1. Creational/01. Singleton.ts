@@ -11,3 +11,7 @@ export class Singleton {
         return Singleton.instance;
     }
 }
+
+// Client code
+let instance = Singleton.getInstance();
+let otherInstance = Singleton.getInstance();
