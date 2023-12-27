@@ -11,7 +11,13 @@
 
 # DESIGN PATTERNS
 
-1. TypeScript Design Patterns And SOLID Principles (Manik) [Udemy](https://www.udemy.com/course/design-patterns-using-typescript/)
+1. Design Pattern in Java (Hansen) [Pluralsight](https://www.pluralsight.com/authors/bryan-hansen)
+    > left at _Structural - Decorator_
+1. Design Pattern in Java (Dmitri Nesteruk) [Udemy](https://www.udemy.com/course/design-patterns-java/)
+
+# ANDROID
+
+1. Android Bootcamp (Morman) [Udemy](https://www.udemy.com/course/the-complete-android-developer-bootcamp)
 
 # POSTGRES
 
