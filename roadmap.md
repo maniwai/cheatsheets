@@ -17,7 +17,7 @@
 
 # ANDROID
 
-1. Android Bootcamp (Morman) [Udemy](https://www.udemy.com/course/the-complete-android-developer-bootcamp)
+1. Android Bootcamp (Norman) [Udemy](https://www.udemy.com/course/the-complete-android-developer-bootcamp)
 
 # POSTGRES
 
