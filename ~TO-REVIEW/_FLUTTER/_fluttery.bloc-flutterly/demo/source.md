@@ -1,0 +1,1 @@
+[Flutterly - BLoC](https://www.youtube.com/watch?v=laqnY0NjU3M&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)

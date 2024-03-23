@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19fee040-2bc7-4487-b426-cb7b62c30a41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/01. Overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/02. Equals And Hash.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/03. TIme And Space Complexity.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/04. Comparator and Comparable.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/05. Iterator Pattern.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/06. List Interface.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/07. List Implementations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA/COLLECTIONS/Java Collections In Depth (Java Brains) [Youtube]/07. Set Implementations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Creational/01. Singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Creational/01. Singleton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../roadmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../roadmap.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2aE8MT7cTkUDnUVqFr9MKeH8pfQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fee040-2bc7-4487-b426-cb7b62c30a41" name="Changes" comment="" />
+      <created>1703872331294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703872331294</updated>
+    </task>
+    <servers />
+  </component>
+</project>
