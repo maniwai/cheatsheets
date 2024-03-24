@@ -1,6 +1,6 @@
 # Les Fondements de l'informatique
 
-### Architecture de Von Neumann
+## Architecture de Von Neumann
 
 1. ##### L’Unité Arithmétique et Logique (UAL)
 
@@ -10,71 +10,71 @@
 
 4. ##### Les Entrées/Sorties (E/S)
 
-##### Déroulement d'un programme
+### Déroulement d'un programme
 
-##### Le microprocesseur
+### Le microprocesseur
 
-##### Les contrôleurs
+### Les contrôleurs
 
-### Représentation interne des instructions et des données
+## Représentation interne des instructions et des données
 
-##### Le binaire
+### Le binaire
 
-##### Les octets et les mots
+### Les octets et les mots
 
-##### L’hexadécimal
+### L’hexadécimal
 
 # L'algorithmique
 
-### Définition
+## Définition
 
-### Pourquoi utiliser un algorithme ?
+## Pourquoi utiliser un algorithme ?
 
-### Le formalisme
+## Le formalisme
 
-##### La représentation graphique
+### La représentation graphique
 
-##### L’algorithme sous forme de texte
+### L’algorithme sous forme de texte
 
-### La complexité
+## La complexité
 
 # Les langages d’implémentation
 
-### Classifications des langages
+## Classifications des langages
 
-##### Haut niveau, bas niveau
+### Haut niveau, bas niveau
 
-##### Diverses classifications
+### Diverses classifications
 
-##### Compilé ou interprété
+### Compilé ou interprété
 
-##### La machine virtuelle
+### La machine virtuelle
 
 # La variable
 
-### Principe
+## Principe
 
-### Déclaration
+## Déclaration
 
-### Les types
+## Les types
 
-##### Les nombres
+### Les nombres
 
-##### Les caractères
+### Les caractères
 
-##### Le type booléen
+### Le type booléen
 
-### Affectation
+## Affectation
 
-##### Affectation dans la déclaration
+### Affectation dans la déclaration
 
-### Saisie et affichage
+## Saisie et affichage
 
 - ##### pseudo-instruction `Afficher`
 
 - ##### pseudo-instruction `Saisir`
 
-### Les constantes
+## Les constantes
 
 # Opérateurs et Calculs
 
@@ -86,4 +86,4 @@
 
 4.  ### Les opérateurs booléens
 
-### Le cas des chaînes de caractères
+## Le cas des chaînes de caractères
